@@ -1,0 +1,38 @@
+#Nav {
+   position:fixed;
+   width:100%;
+   height: 9%;
+   height: fixed;
+   background-color:black;
+   text-align: center;
+}
+
+}
+#links {
+   display: inline-block;
+   color: white;
+
+}
+
+#links li {
+   display: inline-block;
+   color: white;
+   list-style-type:none;
+   padding-right: 20px;
+   font-size:20px;
+   font-family: century;
+
+}
+
+#links i {
+  display: inline-block;
+}
+
+#image {
+  width: 30px;
+  height: 30px;
+  display: inline-block;
+  float: right;
+  padding-top: 10px;
+
+}
